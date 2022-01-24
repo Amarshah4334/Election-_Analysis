@@ -43,7 +43,7 @@ The other detail this analysis provided was the fact that a small portion of the
 
 ## Challenge Summary
 
-# Election Results
+# Election Audit Results
 
 # Total Votes: 369,711
 
