@@ -35,6 +35,11 @@ The analysis of the election results shows that:
 
 ## Challenge Overview
 
+Election Audit Summary
+When voter turnout is audited by county and candidates’ comparison it can guide us towards current election performance. This guideline can be a great source that identifies how resources were allocated during the course of the election campaign and what was their outcome for the current election. It can identify what levels of demographics were reached and if there were any contributing factors which impacted the result then insight can be provided into that.
+This audit can provide a broader outlook into the current elections and pave a way for improving or stabilizing results in specific counties for future.
+The other detail this analysis provided was the fact that a small portion of the code added for county and candidate comparison was able to provide great insight on critical data. The same can be done to additional data that can be collected for further campaigns and the outlook can be utilized in critical decisions by the election board.
+
 
 ## Challenge Summary
 
